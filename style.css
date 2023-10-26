@@ -43,6 +43,19 @@ nav {
 
 }
 
+nav .Collage-name{
+    margin-left: 2.5%;
+    font-size: 2rem;
+    color: rgb(24, 24, 49);
+    transition: .3s ease-in;
+}
+nav .Collage-name:hover{
+    font-size:1.8rem ;
+    /* margin: 1%; */
+    padding: 1%;
+    color: #FDC93B;
+}
+
 nav img {
     width: 125px;
     cursor: pointer;
